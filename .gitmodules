@@ -1,0 +1,3 @@
+[submodule "protorepo"]
+	path = protorepo
+	url = https://github.com/sbaitmangalkar/protorepo
